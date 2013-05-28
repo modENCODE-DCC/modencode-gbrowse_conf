@@ -1,3 +1,13 @@
 *
+detail_select_menu.conf
+gbrowse.conf
+log4perl.conf
+pop_demo.conf
+slave_preload.conf
+submitter_plugin.conf
+volvox.conf
+yeast_chr1+2.conf
+yeast_renderfarm.conf
+yeast_simple.conf
 !*.conf
 !.gitignore
